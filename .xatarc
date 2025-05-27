@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Soner-s-workspace-83fa87.us-east-1.xata.sh/db/loom-clone",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
